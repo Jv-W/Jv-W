@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Jv-W
- 
+
+ 😁
 
 <div>
    <a href="https://github.com/Jv-W">
@@ -15,7 +16,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Redes
  
 <div> 
   
