@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Jv-W
- 😁
+ 
 
 <div>
    <a href="https://github.com/Jv-W">
